@@ -29,9 +29,9 @@ valign = 1
 
 [node name="Play" type="Button" parent="."]
 margin_left = 412.0
-margin_top = 300.0
+margin_top = 300.9
 margin_right = 612.0
-margin_bottom = 360.0
+margin_bottom = 360.9
 custom_fonts/font = SubResource( 2 )
 text = "Play"
 __meta__ = {
